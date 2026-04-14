@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 나만의 시작 홈페이지 (Vite + React)
 
 ## 실행 방법
@@ -22,3 +23,7 @@ npm run build
 ```bash
 npm run preview
 ```
+=======
+# react-web
+react-web
+>>>>>>> f8aaefdb1be248210ff58567b98c8bba87cc1f48
